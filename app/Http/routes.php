@@ -79,7 +79,7 @@ Route::group(['middleware' => 'auth'], function() {
 /*----------------------------------------------------
 /practice
 -----------------------------------------------------*/
-Route::controller('/practice','PracticeController');
+//Route::controller('/practice','PracticeController');
 
 
 
