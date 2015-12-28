@@ -12,7 +12,7 @@ class BooksTableSeeder extends Seeder
     public function run()
     {
 
-        $format_id = \App\Format::where('first_name','=','video')->pluck('id');
+        $format_id = \App\Format::where('meta_name','=','video')->pluck('id');
         DB::table('books')->insert([
         'created_at' => Carbon\Carbon::now()->toDateTimeString(),
         'updated_at' => Carbon\Carbon::now()->toDateTimeString(),
@@ -24,7 +24,7 @@ class BooksTableSeeder extends Seeder
         'user_id' => 1,
         ]);
 
-        $format_id = \App\Format::where('first_name','=','video')->pluck('id');
+        $format_id = \App\Format::where('meta_name','=','video')->pluck('id');
         DB::table('books')->insert([
         'created_at' => Carbon\Carbon::now()->toDateTimeString(),
         'updated_at' => Carbon\Carbon::now()->toDateTimeString(), 
@@ -36,7 +36,7 @@ class BooksTableSeeder extends Seeder
         'user_id' => 1,
         ]);
 
-        $format_id = \App\Format::where('first_name','=','video')->pluck('id');
+        $format_id = \App\Format::where('meta_name','=','video')->pluck('id');
         DB::table('books')->insert([
         'created_at' => Carbon\Carbon::now()->toDateTimeString(),
         'updated_at' => Carbon\Carbon::now()->toDateTimeString(),

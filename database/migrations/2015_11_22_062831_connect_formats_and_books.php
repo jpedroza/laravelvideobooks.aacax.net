@@ -7,7 +7,7 @@ class ConnectFormatsAndBooks extends Migration
 {
     public function up()
     {
-        Schema::table('books', function (Blueprint $table) {
+        Schema::table('books', function (Blueprint $table) { 
 
 			# Add a new INT field called `format_id` that has to be unsigned (i.e. positive)
             $table->integer('format_id')->unsigned();

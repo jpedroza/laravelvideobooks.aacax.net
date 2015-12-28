@@ -18,8 +18,8 @@ class CreateFormatsTable extends Migration
             $table->timestamps();
 
             # The rest of the fields...
-            $table->string('first_name');
-            $table->string('last_name');
+            $table->string('meta_name');
+            //$table->string('last_name'); -- remove
 
 
         });

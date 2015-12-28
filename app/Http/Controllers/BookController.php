@@ -61,7 +61,7 @@ class BookController extends Controller {
                 'formats_for_dropdown' => $formats_for_dropdown,
                 'tags_for_checkbox' => $tags_for_checkbox,
                 'tags_for_this_book' => $tags_for_this_book,
-            ]);
+            ]); 
 
     }
 
