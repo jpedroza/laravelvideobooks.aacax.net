@@ -19,8 +19,6 @@ class CreateFormatsTable extends Migration
 
             # The rest of the fields...
             $table->string('meta_name');
-            //$table->string('last_name'); -- remove
-
 
         });
     }

@@ -25,7 +25,7 @@ class Format extends Model
 
         $formats_for_dropdown = [];
         foreach($formats as $format) {
-            $formats_for_dropdown[$format->id] = $format->meta_name; //$format->last_name.', '.$format->first_name;
+            $formats_for_dropdown[$format->id] = $format->meta_name;
         }
 
         return $formats_for_dropdown;

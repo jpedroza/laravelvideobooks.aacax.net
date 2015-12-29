@@ -15,21 +15,18 @@ class FormatsTableSeeder extends Seeder
         'created_at' => Carbon\Carbon::now()->toDateTimeString(),
         'updated_at' => Carbon\Carbon::now()->toDateTimeString(),
         'meta_name' => 'video',
-        //'last_name' => '',
         ]);
 
         DB::table('formats')->insert([
         'created_at' => Carbon\Carbon::now()->toDateTimeString(),
         'updated_at' => Carbon\Carbon::now()->toDateTimeString(),
         'meta_name' => 'flash',
-        //'last_name' => '',
         ]);
 
         DB::table('formats')->insert([
         'created_at' => Carbon\Carbon::now()->toDateTimeString(),
         'updated_at' => Carbon\Carbon::now()->toDateTimeString(),
         'meta_name' => 'pdf',
-        //'last_name' => '',
         ]);
 
     }

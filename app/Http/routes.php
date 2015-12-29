@@ -70,20 +70,6 @@ Route::group(['middleware' => 'auth'], function() {
 });
 
 
-# Alternative to the above, using implicit Controller routing
-//Route::controller('/books','BookController');
-
-
-
-
-/*----------------------------------------------------
-/practice
------------------------------------------------------*/
-//Route::controller('/practice','PracticeController');
-
-
-
-
 /*----------------------------------------------------
 Debugging/Local/Misc
 -----------------------------------------------------*/
