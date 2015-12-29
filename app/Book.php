@@ -7,7 +7,6 @@ use Illuminate\Database\Eloquent\Model;
 class Book extends Model
 {
     public function format() {
-        # Book belongs to Format
         # Define an inverse one-to-many relationship.
         return $this->belongsTo('\App\Format');
     }
@@ -19,6 +18,5 @@ class Book extends Model
     public function tags() {
         return $this->belongsToMany('\App\Tag')->withTimestamps();;
     }
-	
 
 }
