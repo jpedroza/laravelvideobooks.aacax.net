@@ -102,7 +102,7 @@ This unique implementation will hold various media files demonstrating recurring
 *Delete Videos as an Admin	GET	/video/delete
 *Delete Videos as an Admin	POST	/video/delete
 ##Database sketch
-![Database Sketch](/img/database-sketch.png)
+![Database Sketch](database-sketch.png)
 
 ###Table name: videos
 Description: This table holds all video files 
