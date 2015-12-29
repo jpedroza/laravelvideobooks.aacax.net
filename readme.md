@@ -102,8 +102,8 @@ This unique implementation will hold various media files demonstrating recurring
 *Delete Videos as an Admin	GET	/video/delete
 *Delete Videos as an Admin	POST	/video/delete
 ##Database sketch
-![Database Sketch](database-sketch.png)
-
+![Database Sketch](http://laravelvideobooks.aacax.net/img/database-sketch.png)
+ 
 ###Table name: videos
 Description: This table holds all video files 
 Fields:
