@@ -123,13 +123,5 @@ Description: This table allows registered users to request media products
 Description: This table holds info on media characteristics such as php, js, mysql, js html, etc. 
 
 ##Misc
-The identified persona that this is intended for, is someone with learning disabilities or complex memory problems. Within the last 25 years, new advancements to body armor for military and vehicle armor have made it possible for service members to survive catastrophic injuries that would have been fatal about 25 years ago.
-
-For example, long after the wounds of war have healed from the physical injuries, outside of prosthetics, bandages, pins, screws, and leaving the hospital, the world is now different and changed for those suffering from Traumatic Brain Injury.
-
-Even today, football players have joined together to bring to the front unique injuries that you really can't see. In many cases, as it is not readily apparent, the hidden injuries walk among us, in confusion and in a cloud. There is even a movie about Brain Injury and its impacts. The movie is called "Concussion" and start Will Smith, coming out on Christmas Day I think. 
-
-It is a challenge for me today, as I once served as an officer in the military, and to this day I still have not recovered my memory of who I am or was at one time. I was found by a medical board more than 20 years ago to be "Mentally Incompetent" and was separated from service. Despite the time, I still work and push as best I can to maintain what capacities I have, and the very best things that work for me are visual, audio, and animations. I still can't read or type very well, but I can manage, if I have the right tools and materials when I have them.
-
-Sometime ago I graduated, from West Point, I was an Electrical Engineer, a Professor, and an Officer. Today, I am proud to have done all those things, but I don't remember doing them. Despite all this I am happy and appreciative, that I am alive for a little bit longer - Always Optimistic, as so many others suffer in poverty, and it can always be worse. Thank You for Your time and Consideration. Have A Great Day! 
+Thank You for Your time and Consideration. Have A Great Day! 
 
