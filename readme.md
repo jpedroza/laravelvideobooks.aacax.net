@@ -104,34 +104,23 @@ This unique implementation will hold various media files demonstrating recurring
 ##Database sketch
 ![Database Sketch](http://laravelvideobooks.aacax.net/img/database-sketch.png)
  
-###Table name: videos
-Description: This table holds all video files 
-Fields:
-*(int, primary key, auto_increment) id
-*(timestamp) created_at
-*(timestamp) updated_at 
-*(text) title
-*(text) description
-*(text) link
-*(text) thumbnail
-*(text) author
+###Table name: books
+Description: This table holds all media files 
 
-###Table name: authors
-Description: This table holds info on contributors
-Fields:
-*(int, primary key, auto_increment) id
-*(timestamp) created_at
-*(timestamp) updated_at 
-*(text) firstname
-*(text) lastname
+###Table name: users
+Description: This table holds user accounts and hashed passwords
 
-###Table name: metadata
-Description: This table holds info on contributors
-Fields:
-*(int, primary key, auto_increment) id
-*(timestamp) created_at
-*(timestamp) updated_at 
-*(text) searchterm
+###Table name: comments
+Description: This table is used so users can comment on media files
+
+###Table name: formats
+Description: This table holds info on media type of files
+
+###Table name: requests
+Description: This table allows registered users to request media products
+
+###Table name: tags
+Description: This table holds info on media characteristics such as php, js, mysql, js html, etc. 
 
 ##Misc
 The identified persona that this is intended for, is someone with learning disabilities or complex memory problems. Within the last 25 years, new advancements to body armor for military and vehicle armor have made it possible for service members to survive catastrophic injuries that would have been fatal about 25 years ago.
