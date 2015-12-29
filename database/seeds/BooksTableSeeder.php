@@ -17,7 +17,7 @@ class BooksTableSeeder extends Seeder
         'updated_at' => Carbon\Carbon::now()->toDateTimeString(),
         'title' => 'screen cast',
 		'link' => '0.mp4',
-		'description' => 'P4 Screencast Rubric Requirements',
+		'description' => 'P4 Screencast Laravel Video Books',
 		'thumbnail' => 'thumbnail.png',
         'format_id' => $format_id,
         'user_id' => 1,
